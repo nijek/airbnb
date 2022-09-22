@@ -1,0 +1,29 @@
+* {
+    font-family: 'Poppins';
+}
+
+
+.image-grid {
+    width: 395px;
+    height: 232px;
+    margin: auto;
+    margin-top: 30px;
+}
+
+.image-grid > img {
+    height: 100%;
+}
+
+h1 {
+    text-align: center;
+    font-weight: bold;
+    margin-bottom: 0px;
+}
+
+h2 {
+    font-size: smaller;
+    font-weight: 300;
+    width: 70%;
+    margin-top: 5px;
+    margin-left: 9.5%;
+}
